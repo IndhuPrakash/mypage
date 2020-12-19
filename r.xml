@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE donate [
+<!ENTITY nbsp "&#xA0;"> 
+<!ENTITY writer "Writer Course Registration System, ">
+<!ENTITY copyright "Copyright Registration System">
+]>
+<register>
+<admindetails>
+	<name>prakash</name>
+	<username>p2prakash</username>
+	<gender>Male</gender>
+	<phno>8778467342</phno>
+	<email>indhuprakash0610@gmail.com</email>
+	<password>siva0610</password>
+</admindetails>
+
+<admindetails>
+	<name>esakkidurai</name>
+	<username>chinna</username>
+	<gender>Male</gender>
+	<phno>9629664623</phno>
+	<email>esakkidurai@gmail.com</email>
+	<password>#chinna10</password>
+</admindetails>
+
+<admindetails>
+	<name>anushya</name>
+	<username>p2anushya</username>
+	<gender>Female</gender>
+	<phno>8220268699</phno>
+	<email>muthuanushya1610@gmail.com</email>
+	<password>@anushya16</password>
+</admindetails>
+
+<admindetails>
+	<name>marimuthu</name>
+	<username>mvmuthu</username>
+	<gender>Male</gender>
+	<phno>9600688241</phno>
+	<email>maris0508@gmail.com</email>
+	<password>$maris05</password>
+</admindetails>
+<footer>&writer;&nbsp;&copyright;</footer>
+</register>

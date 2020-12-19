@@ -1,0 +1,9 @@
+<!ELEMENT register(admin+)>
+<!ELEMENT admin (name,username,gender,phno,email,password)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT phno (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ATTLIST admin id CDATA #REQUIRED>

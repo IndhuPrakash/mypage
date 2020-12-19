@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE register SYSTEM "register.dtd">
+<register
+xmlns="http://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3schools.com register.xsd">
+<?xml-stylesheet type="text/xsl" href="register.xsl" ?> 
+  <admin id="001">
+	<name>prakash</name>
+	<username>p2prakash</username>
+	<gender>Male</gender>
+	<phno>8778467342</phno>
+	<email>indhuprakash0610@gmail.com</email>
+	<password>siva0610</password>
+  </admin>
+
+  <admin id="002">
+	<name>esakkidurai</name>
+	<username>chinna</username>
+	<gender>Male</gender>
+	<phno>9629664623</phno>
+	<email>esakkidurai@gmail.com</email>
+	<password>#chinna10</password>
+  </admin>
+
+  <admin id="003">
+	<name>anushya</name>
+	<username>p2anushya</username>
+	<gender>Female</gender>
+	<phno>8220268699</phno>
+	<email>muthuanushya1610@gmail.com</email>
+	<password>@anushya16</password>
+  </admin>
+
+  <admin id="004">
+	<name>marimuthu</name>
+	<username>mvmuthu</username>
+	<gender>Male</gender>
+	<phno>9600688241</phno>
+	<email>maris0508@gmail.com</email>
+	<password>$maris05</password>
+  </admin>
+</register>
